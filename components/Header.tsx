@@ -15,7 +15,7 @@ function Header() {
         <span className="font-mono">Polygon MATIC</span>
         <div className="flex flex-row space-x-2 items-center">
           <div className="h-5 w-5 rounded-full bg-blue-500"></div>
-          <span className="font-mono text-xl font-bold">Decentagram</span>
+          <span className="font-mono text-xl font-bold">Decentralized Donation Images</span>
         </div>
         <div className="flex flex-row space-x-2 items-center">
           <span className="font-mono overflow-ellipsis w-52 overflow-hidden">
