@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "export": "rm -rf out docs && next build && next export && mv out docs",
+    "export": "rm -rf out/* docs/* && next build && next export && mv out docs",
     "start": "next start",
     "lint": "next lint"
   },
